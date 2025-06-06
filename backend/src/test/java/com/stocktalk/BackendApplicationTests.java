@@ -1,4 +1,4 @@
-package com.tradingvibe;
+package com.stocktalk;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

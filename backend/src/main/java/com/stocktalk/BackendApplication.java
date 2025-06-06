@@ -1,4 +1,4 @@
-package com.tradingvibe;
+package com.stocktalk;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
